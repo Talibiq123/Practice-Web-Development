@@ -6,3 +6,7 @@
 * CSS Resources
 
 1. W3School CSS  https://www.w3schools.com/css/
+
+* JavaScript Resources
+
+1. JavaScript  https://www.w3schools.com/javascript/
