@@ -5,8 +5,8 @@
 
 * CSS Resources
 
-1. W3School CSS  https://www.w3schools.com/css/
+1. W3School CSS  https://www.w3schools.com/css/default.asp
 
 * JavaScript Resources
 
-1. JavaScript  https://www.w3schools.com/javascript/
+1. JavaScript  https://www.w3schools.com/js/default.asp
