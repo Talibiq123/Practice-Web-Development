@@ -6,5 +6,5 @@
 [1]: https://www.w3schools.com/html/
 
 * CSS Resources
-(2) W3School CSS
-[2]: https://www.w3schools.com/css/
+
+(2) W3School CSS  https://www.w3schools.com/css/
