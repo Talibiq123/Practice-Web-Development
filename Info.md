@@ -2,6 +2,6 @@
 - HTML Resources
 [links](https://www.w3schools.com/html/)
 
-This is a [link to Google][1].
+This is a [link to w3scholl][1].
 
 [1]: https://www.google.com
